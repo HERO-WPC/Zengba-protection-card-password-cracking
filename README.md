@@ -1,6 +1,6 @@
-#源码来自大佬https://github.com/gitpetyr
-#采用ai总结
-#打包成exe直接在cmd中运行(管理员)
+# 源码来自大佬https://github.com/gitpetyr
+# 采用ai总结
+# 打包成exe直接在cmd中运行(管理员)
 
 
 
